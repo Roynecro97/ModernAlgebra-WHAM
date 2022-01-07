@@ -2,6 +2,10 @@
 
 Modern Algebra RSA project (Winter 2021-2022)
 
+Answers with explanations to the project's riddles.
+
+For a prettier rendering of the answers, see [here](./notebook.ipynb)
+
 ## 1. Loki & Spiderman
 
 ### Riddle
@@ -134,7 +138,7 @@ else:
 
 ### Riddle
 
-Given `q = 6841` and `p = 7919`, choose a message and a public key $e$ and encrypt the message.
+Given `q = 6841` and `p = 7919`, choose a message and a public key `e` and encrypt the message.
 (Show your original message, the public key and the encrypted message)
 
 ### Answer
